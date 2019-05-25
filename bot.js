@@ -167,4 +167,4 @@ client.on('message', function(msg) {
     }
 });
 
-client.login("");
+client.login("NTgxNjUwMTc3MjkxNTgzNTE3.XOkiag.-tusWUfuKz4qPOoX2qYBL658A3E");
