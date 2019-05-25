@@ -3,7 +3,7 @@ const client = new Discord.Client();
 const canvas = require("canvas");
 const fs = require("fs"); 
 const Canvas = require("canvas");
-var prefix = "$";
+var prefix = "#";
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
   client.user.setGame(`Style Bot | $help | V 0.0.1`);
